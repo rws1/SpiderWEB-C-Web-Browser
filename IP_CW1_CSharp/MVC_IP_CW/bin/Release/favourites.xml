@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfFavourites xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Favourites>
+    <Alias>RuneScape</Alias>
+    <URL>www.runescape.com</URL>
+    <HomePage>true</HomePage>
+  </Favourites>
+  <Favourites>
+    <Alias>OutLook</Alias>
+    <URL>www.outlook.com</URL>
+    <HomePage>false</HomePage>
+  </Favourites>
+</ArrayOfFavourites>

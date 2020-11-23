@@ -1,0 +1,17 @@
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\bin\Debug\netcoreapp3.1\IP_CW1_CSharp.exe
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\bin\Debug\netcoreapp3.1\IP_CW1_CSharp.deps.json
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\bin\Debug\netcoreapp3.1\IP_CW1_CSharp.runtimeconfig.json
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\bin\Debug\netcoreapp3.1\IP_CW1_CSharp.runtimeconfig.dev.json
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\bin\Debug\netcoreapp3.1\IP_CW1_CSharp.dll
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\bin\Debug\netcoreapp3.1\IP_CW1_CSharp.pdb
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\obj\Debug\netcoreapp3.1\IP_CW1_CSharp.csprojAssemblyReference.cache
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\obj\Debug\netcoreapp3.1\IP_CW1_CSharp.csproj.GenerateResource.cache
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\obj\Debug\netcoreapp3.1\IP_CW1_CSharp.AssemblyInfoInputs.cache
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\obj\Debug\netcoreapp3.1\IP_CW1_CSharp.AssemblyInfo.cs
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\obj\Debug\netcoreapp3.1\IP_CW1_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\obj\Debug\netcoreapp3.1\IP_CW1_CSharp.dll
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\obj\Debug\netcoreapp3.1\IP_CW1_CSharp.pdb
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\obj\Debug\netcoreapp3.1\IP_CW1_CSharp.genruntimeconfig.cache
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\obj\Debug\netcoreapp3.1\IP_CW1_CSharp.Properties.Resources.resources
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\obj\Debug\netcoreapp3.1\IP_CW1_CSharp.SpiderWEB.resources
+C:\Users\Rober\source\repos\IP_CW1_CSharp\IP_CW1_CSharp\bin\Debug\netcoreapp3.1\history.xml

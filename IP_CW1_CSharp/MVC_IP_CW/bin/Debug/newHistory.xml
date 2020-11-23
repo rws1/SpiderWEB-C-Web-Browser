@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfSpiderWeb xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SpiderWeb>
+    <URL>www.amazon.com</URL>
+    <DateAndTime>Thu, 29 Oct 2020 22’:’33’:’05 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+  <SpiderWeb>
+    <URL>www.office.com</URL>
+    <DateAndTime>Thu, 29 Oct 2020 22’:’33’:’14 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+  <SpiderWeb>
+    <URL>www.runescape.com</URL>
+    <DateAndTime>Thu, 29 Oct 2020 22’:’33’:’17 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+  <SpiderWeb>
+    <URL>www.runescape.com</URL>
+    <DateAndTime>Thu, 29 Oct 2020 22’:’33’:’31 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+  <SpiderWeb>
+    <URL>www.office.com</URL>
+    <DateAndTime>Thu, 29 Oct 2020 22’:’33’:’36 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+  <SpiderWeb>
+    <URL>www.bing.com</URL>
+    <DateAndTime>Thu, 29 Oct 2020 22’:’33’:’39 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+  <SpiderWeb>
+    <URL>www.amazon.com</URL>
+    <DateAndTime>Thu, 29 Oct 2020 22’:’33’:’44 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+  <SpiderWeb>
+    <URL>www.yahoo.com</URL>
+    <DateAndTime>Thu, 29 Oct 2020 22’:’34’:’20 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+  <SpiderWeb>
+    <URL>www.amazon.com</URL>
+    <DateAndTime>Thu, 29 Oct 2020 22’:’34’:’27 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+  <SpiderWeb>
+    <URL>www.amazon.com</URL>
+    <DateAndTime>Thu, 29 Oct 2020 22’:’34’:’36 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+</ArrayOfSpiderWeb>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfSpiderWeb xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SpiderWeb>
+    <URL>www.Google.com</URL>
+    <DateAndTime>Mon, 26 Oct 2020 19’:’38’:’43 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+  <SpiderWeb>
+    <URL>www.Google.com</URL>
+    <DateAndTime>Mon, 26 Oct 2020 19’:’39’:’38 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+  <SpiderWeb>
+    <URL>www.runescape.com</URL>
+    <DateAndTime>Mon, 26 Oct 2020 19’:’40’:’02 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+  <SpiderWeb>
+    <URL>www.outlook.com</URL>
+    <DateAndTime>Mon, 26 Oct 2020 19’:’40’:’14 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+  <SpiderWeb>
+    <URL>www.Google.com</URL>
+    <DateAndTime>Mon, 26 Oct 2020 19’:’40’:’23 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+  <SpiderWeb>
+    <URL>www.Google.com</URL>
+    <DateAndTime>Mon, 26 Oct 2020 19’:’46’:’09 ‘G10T’</DateAndTime>
+  </SpiderWeb>
+</ArrayOfSpiderWeb>

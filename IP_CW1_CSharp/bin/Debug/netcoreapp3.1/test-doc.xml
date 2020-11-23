@@ -1,0 +1,14 @@
+<history>
+  <entry nickname="Google">
+    <httpAddress>https://www.google.co.uk</httpAddress>
+  </entry>
+  <entry nicnkname="Bing">
+    <httpAddress>https://www.bing.co.uk</httpAddress>
+  </entry>
+  <entry nickname="Data Seller1">
+    <httpAddress>https://www.Facebook.co.uk</httpAddress>
+  </entry>
+  <entry nickname="Data Seller2">
+    <httpAddress>https://www.Amazon.co.uk</httpAddress>
+  </entry>
+</history>
